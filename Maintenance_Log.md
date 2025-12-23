@@ -2,7 +2,7 @@
 
 ## Maintenance Schedule Reference
 
-See [Service Schedule](Suzuki_Cappuccino_EA11R_Parts_Corss_Ref.md#service-schedule) for recommended maintenance intervals.
+See [Service Schedule](https://github.com/JQLSpec/Suzuki-EA11R/blob/main/Suzuki_Cappuccino_EA11R_Parts_Cross_Ref.md#service-schedule) for recommended maintenance intervals.
 
 ## Maintenance and Project Records
 
